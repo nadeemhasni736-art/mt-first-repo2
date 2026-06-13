@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iron Pulse Gym | About Us</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="nav-container">
+            <div class="logo">
+                <h1>Iron<span>Pulse</span></h1>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html" class="active">About Us</a></li>
+                    <li><a href="membership.html">Membership</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="content-section">
+        <h2>About Our Facility</h2>
+        <div style="max-width: 800px; margin: 0 auto; text-align: center;">
+            <p style="font-size: 18px; margin-bottom: 20px; color: #e0e0e0;">
+                Founded with a vision to streamline fitness management, Iron Pulse merges modern bodybuilding culture with clean technological organization. Our multi-floor layout hosts state-of-the-art powerlifting racks, extensive cardio zones, and group fitness studios.
+            </p>
+            <p style="font-size: 18px; color: #b5b5b5; margin-bottom: 40px;">
+                Our digital gym management network links members, physical spaces, and elite tracking services together so you can focus entirely on your work ethic.
+            </p>
+            
+            <h3 style="color: #ff3e3e; text-transform: uppercase; font-size: 24px; margin-bottom: 15px;">Gym Operations</h3>
+            <p><strong>Monday - Friday:</strong> 5:00 AM - 11:00 PM</p>
+            <p><strong>Saturday - Sunday:</strong> 6:00 AM - 9:00 PM</p>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Iron Pulse Gym Management System. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
